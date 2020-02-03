@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="text">TO WYSWIETLA</string>
+    <string name="losuj">Losuj nowe motto</string>
+    <string name="quiz">Quiz</string>
+    <string name="pytanie">pytanie z quizu</string>
+    <string name="odp1">odp1</string>
+    <string name="odp2">odp2</string>
+    <string name="odp3">odp3</string>
+</resources>
